@@ -1,0 +1,1 @@
+This folder is created to save preliminary visual maps of different travel modes as HTML files for quick viewing. Part of the code in the Jupyter Notebook saves HTML files in this folder. These files are over 100MB, so they can't be uploaded to GitHub. Please do not move or rename this folder casually.
